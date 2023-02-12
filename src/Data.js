@@ -1,0 +1,21 @@
+export const Data=JSON.parse(`[
+    "alma",
+    "szilva",
+    "narancs",
+    "kutya",
+    "macska",
+    "zebra",
+    "juh",
+    "kacsa",
+    "liba",
+    "farkas",
+    "medve",
+    "kecske",
+    "teve",
+    "gereblye",
+    "eke",
+    "kapa",
+    "fenyves",
+    "gatya",
+    "zokni"
+]`)
